@@ -9,9 +9,26 @@ color: white;
   justfy-content: pace-around;
   padding 24px 0;
 }
+.cabecalho-imagem{
+   width: 20%
+}
 .cabecalho-lista-item{
   display: inline-block;
   margin: 0 16px;
   padding: 24px 0;
   font-size: 24px;
+}
+.escol-imagem{
+   width: 25%
+}
+.escola{
+   background-image: linear-grandient(#383D58,#00c0eb);
+   color: white;
+   display: flex;
+}
+.escola-conteudo{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
